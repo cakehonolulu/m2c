@@ -58,7 +58,7 @@ from .instruction import (
     Location,
     set_current_instr,
 )
-from .types import (
+from .types_ import (
     AccessPath,
     FunctionParam,
     FunctionSignature,

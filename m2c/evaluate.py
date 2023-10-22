@@ -48,7 +48,7 @@ from .translate import (
     early_unwrap_ints,
     var_for_expr,
 )
-from .types import (
+from .types_ import (
     FunctionParam,
     FunctionSignature,
     StructDeclaration,

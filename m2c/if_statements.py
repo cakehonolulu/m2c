@@ -28,7 +28,7 @@ from .translate import (
     get_block_info,
     simplify_condition,
 )
-from .types import Type
+from .types_ import Type
 
 
 @dataclass

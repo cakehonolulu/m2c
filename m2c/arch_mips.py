@@ -94,7 +94,7 @@ from .evaluate import (
     make_store,
     void_fn_op,
 )
-from .types import FunctionSignature, Type
+from .types_ import FunctionSignature, Type
 
 
 LENGTH_TWO: Set[str] = {

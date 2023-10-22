@@ -86,7 +86,7 @@ from .evaluate import (
     make_storex,
     void_fn_op,
 )
-from .types import FunctionSignature, Type
+from .types_ import FunctionSignature, Type
 
 
 class FcmpoCrorPattern(SimpleAsmPattern):

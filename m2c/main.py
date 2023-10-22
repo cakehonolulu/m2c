@@ -19,7 +19,7 @@ from .translate import (
     translate_to_ast,
     narrow_func_call_outputs,
 )
-from .types import TypePool
+from .types_ import TypePool
 from .arch_mips import MipsArch
 from .arch_ppc import PpcArch
 
